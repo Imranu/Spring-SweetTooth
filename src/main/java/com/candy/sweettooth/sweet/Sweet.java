@@ -8,6 +8,7 @@ public class Sweet {
     private String[] characteristics;
 
     public Sweet(String name, Float price, String flavour, String[] characteristics) {
+        super();
         this.name = name;
         this.price = price;
         this.flavour = flavour;

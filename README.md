@@ -1,1 +1,1 @@
-# Spring-SweetTooth :)
+Spring Project
